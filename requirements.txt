@@ -5,4 +5,3 @@ timm>=0.3.2
 numpy>=1.19.2
 tensorboard>=2.5
 moviepy>=1.0.3
-tqdm
