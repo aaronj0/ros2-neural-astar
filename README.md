@@ -10,7 +10,7 @@ Neural A\* is a novel data-driven search-based planner that consists of a traina
 
 | A\* search | Neural A\* search | 
 |:--:|:--:|
-| ![astar](assets/astar.gif) | ![neural_astar](assets/neural_astar.gif)|
+| ![astar](gifs/astar.gif) | ![neural_astar](gifs/neural_astar.gif)|
 
 
 ## Overview
