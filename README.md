@@ -1,4 +1,4 @@
-# ROS-Neural-A-Star
+# ROS2 Neural A*
 
 ### A quick rundown of the project:
 
