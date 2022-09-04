@@ -25,7 +25,7 @@ A testbench ROS2 plugin which allows for testing of Neural A* in commonly simula
 
 ### Roadmap:
 
-- [ ] Setting up a simulation environment - Turtlebot3 with Nav2 on Ubuntu 18.04, ROS2 Humble, SLAM Toolbox
+- [ ] Setting up a simulation environment - Turtlebot3 with Nav2 on Ubuntu 20.04, ROS2 Foxy, SLAM Toolbox
 - [ ] Dataset collection with TB3
 - [ ] Evaluation on Vanilla Neural A*
 - [ ] Model retraining and Encoder-Decoder network optimisation for CostMaps
